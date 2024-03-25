@@ -6,13 +6,27 @@
 
 I'm Lulu Mosobe, a budding tech enthusiast from Rustenburg, South Africa, currently diving deep into the world of software development. 🚀 My journey involves mastering languages and frameworks while exploring the endless possibilities of technology. 
 
-## Skills & Tech Stack
+###
+###
 
-### Languages & Tools:
-- **Frontend:** ![HTML](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYCDVXC1dKIQxWkN9r9hBZElgawTxpq1nwAw&usqp=CAU) ![CSS](https://i.pinimg.com/236x/5d/1c/c8/5d1cc864ae7eebae63a1c5738b446e3d.jpg) ![JavaScript](https://i.pinimg.com/236x/4c/81/c0/4c81c02c460aade9e35b3091942a4cf8.jpg)
-- **Frameworks & Libraries:** ![React](https://i.pinimg.com/236x/e0/a1/fa/e0a1fa0b27cfec27491346145ea18753.jpg) ![Nextjs](https://i.pinimg.com/236x/1f/24/1d/1f241dd5db6f680253d76f371add690a.jpg)
-- **Design:** ![Tailwind](https://i.pinimg.com/236x/fe/63/63/fe6363c5220b137f918ccfeadc0ec888.jpg)
+<h2 align="left">My Tech Stack</h2>
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+</div>
+
+###
 ### Backend & Database:
 - **Server:** Node.js
 - **Databases:** MongoDB, Firebase
